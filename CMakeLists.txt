@@ -31,6 +31,7 @@ set(IMGUI_SOURCES
 
 add_executable(DS4SpotifyController WIN32
     src/main.cpp
+    src/controllers.cpp
     ${CMAKE_SOURCE_DIR}/app.rc
     ${IMGUI_SOURCES}
 )
@@ -42,6 +43,7 @@ set_source_files_properties(${CMAKE_SOURCE_DIR}/app.rc PROPERTIES
 )
 
 target_include_directories(DS4SpotifyController PRIVATE
+    ${CMAKE_SOURCE_DIR}/src
     ${SDL2_INCLUDE_DIRS}
     ${IMGUI_DIR}
     ${IMGUI_DIR}/backends
