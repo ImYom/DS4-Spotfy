@@ -1,4 +1,4 @@
-# DS4 Spotify Controller
+# Spotify Controller
 
 > Skip Spotify tracks with your controller. No API, no login.
 
