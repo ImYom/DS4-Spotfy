@@ -13,7 +13,7 @@ Grab the latest `.exe` from [Releases](../../releases)
 ### Features
 
 - DS4, DualSense, and Xbox One support
-- Hot-plug — swap controllers without restarting
+- Hotswap — swap controllers without restarting
 - Bindings persist across restarts
 - Minimizes to system tray
 - Zero performance impact
