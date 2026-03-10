@@ -29,7 +29,7 @@ cmake -S . -B build \
   -DSDL2_DIR=C:\path\to\vcpkg\packages\sdl2_x64-windows-static\share\sdl2 \
   -DVCPKG_TARGET_TRIPLET=x64-windows-static \
   -DCMAKE_TOOLCHAIN_FILE=C:\path\to\vcpkg\scripts\buildsystems\vcpkg.cmake \
-  -G "Visual Studio 17 2022" -A x64
+  -G "Visual Studio 18 2026" -A x64
 
 cmake --build build --config Release
 ```
