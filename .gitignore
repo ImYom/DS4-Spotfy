@@ -5,6 +5,7 @@ app.rc
 
 # Visual Studio
 .vs/
+logos/
 *.user
 *.suo
 *.sdf
