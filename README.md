@@ -12,7 +12,7 @@ Grab the latest `.exe` from [Releases](../../releases)
 
 ### Features
 
-- DS4, DualSense, and Xbox One support
+- PS4, PS5, and Xbox One support
 - Swap controllers without restarting
 - Bindings persist across restarts
 - Minimizes to system tray
