@@ -16,9 +16,6 @@ CMakeFiles/
 cmake_install.cmake
 CMakeLists.txt
 
-# Third party (these should be submodules or fetched separately)
-third_party/
-
 # Compiled output
 *.exe
 *.obj
